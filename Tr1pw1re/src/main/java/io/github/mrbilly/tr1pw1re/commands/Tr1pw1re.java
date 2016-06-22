@@ -102,7 +102,7 @@ public class Tr1pw1re {
 		if (COMMAND.equalsIgnoreCase("github")) {
 			CHANNEL.sendMessage(""
 					+ "You can contribute in the development of the Tr1pw1re bot in Github, or make a suggestion for more commands here!:" + "\n"
-					+ "`https://github.com/MrBilly/Tr1pw1re-Bot`");
+					+ "`<https://github.com/MrBilly/Tr1pw1re-Bot>`");
 		}
 	}
 }
