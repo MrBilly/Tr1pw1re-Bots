@@ -98,5 +98,11 @@ public class Tr1pw1re {
 		if (COMMAND.equalsIgnoreCase("vote")) {
 			CHANNEL.sendMessage("Vote for Tr1pw1re here!: <http://tr1pw1re.com/vote>");
 		}
+
+		if (COMMAND.equalsIgnoreCase("github")) {
+			CHANNEL.sendMessage(""
+					+ "You can contribute in the development of the Tr1pw1re bot in Github, or make a suggestion for more commands here!:" + "\n"
+					+ "`https://github.com/MrBilly/Tr1pw1re-Bot`");
+		}
 	}
 }
