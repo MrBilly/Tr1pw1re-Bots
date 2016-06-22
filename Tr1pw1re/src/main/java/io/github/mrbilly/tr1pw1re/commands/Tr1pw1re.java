@@ -55,7 +55,7 @@ public class Tr1pw1re {
 		if (COMMAND.equalsIgnoreCase("rules")) {
 			CHANNEL.sendMessage(""
 					+ "• Do not use custom names, use your in-game name instead.\n"
-					+ "• Post nsfw contents in `#nsfw`\n"
+					+ "• Post NSFW contents in `#nsfw`\n"
 					+ "• Do not threaten others\n"
 					+ "• Do not spam bots, that makes them crash easily and our bot manager is not always on\n"
 					+ "• Roles will be given by the developers and moderators, so please do not complain\n"
