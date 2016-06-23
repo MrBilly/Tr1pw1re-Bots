@@ -44,10 +44,10 @@ public class DiscordBot extends ListenerAdapter
         
         if (event.getMessage().getContent().equalsIgnoreCase("~anastasia")) {
         	event.getTextChannel().sendMessage(""
-        			+ "~anastasia = Displays this list\n"
-        			+ "~anastasia info = Displays Bot Info\n"
-        			+ "~anastasia aye = Say hello to Anastasia!\n"
-        			+ "~anastasia cherry = Short message on Cherry... Random!");
+        			+ "**`~anastasia`** = Displays this list\n"
+        			+ "**`~anastasia info`** = Displays Bot Info\n"
+        			+ "**`~anastasia aye`** = Say hello to Anastasia!\n"
+        			+ "**`~anastasia cherry`** = Short message on Cherry... Random!");
         }
     }
 }
