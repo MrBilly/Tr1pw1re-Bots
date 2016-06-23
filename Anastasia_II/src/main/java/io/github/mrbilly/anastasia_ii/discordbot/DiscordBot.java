@@ -22,20 +22,27 @@ public class DiscordBot extends ListenerAdapter
     @Override
     public void onMessageReceived(MessageReceivedEvent event)
     {
-    	if (event.getMessage().getContent().equalsIgnoreCase("!cherry")) {
+    	if (event.getMessage().getContent().equalsIgnoreCase("~anastasia cherry")) {
     		event.getTextChannel().sendMessage(""
     				+ "Cherry? Where did the Cherry go?\n"
     				+ "I'm a little hungry.");
     	}
-    	if (COMMAND.equalsIgnoreCase("anastasia ")) {
-		 CHANNEL.sendMessage(""
-            + "This bot is created by @cherry2003 and inspired by Discord/Billy :P")
-		}
+    	if (event.getMessage().getContent().equalsIgnoreCase("~anastasia info")) {
+            	event.getTextChannel().sendMessage(""
+            	+ "This bot is created by @cherry2003 and inspired by Discord/Billy :P");
+	}
 
-	if (COMMAND.euqlsIgnoreCase("anastasia aye")) {
-		CHANNEL.sendMessage(""
-			+ "Aye there!")
-		}
+	if (event.getMessage().getContent().equalsIgnoreCase("~anastasia aye")) {
+            	event.getTextChannel().sendMessage(""
+            	+ "Aye there! I'm Anastasia!");
+	}
+	
+	if (event.getMessage().getContent().equalsIgnoreCase("~anastasia")) {
+		event.getTextChannel().sendMessage(""
+		+ "~anastasia = Displays this list\n"
+		+ "~anastasia info = Displays Bot Info\n"
+		+ "~anastasia aye = Say hello to Anastasia!\n"
+		+ "~anastasia cherry = Short message on Cherry... Random!");
     	}
     }
 }
