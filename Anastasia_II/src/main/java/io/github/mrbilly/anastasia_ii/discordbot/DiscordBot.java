@@ -27,5 +27,15 @@ public class DiscordBot extends ListenerAdapter
     				+ "Cherry? Where did the Cherry go?\n"
     				+ "I'm a little hungry.");
     	}
+    	if (COMMAND.equalsIgnoreCase("anastasia ")) {
+		 CHANNEL.sendMessage(""
+            + "This bot is created by @cherry2003 and inspired by Discord/Billy :P")
+		}
+
+	if (COMMAND.euqlsIgnoreCase("anastasia aye")) {
+		CHANNEL.sendMessage(""
+			+ "Aye there!")
+		}
+    	}
     }
 }
