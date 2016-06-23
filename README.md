@@ -1,4 +1,4 @@
-# Tr1pw1re Bot
+# Tr1pw1re Bots
 
 Make a suggestion for commands or anything!
 
