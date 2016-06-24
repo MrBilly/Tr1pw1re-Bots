@@ -40,6 +40,14 @@ public class Colours extends ListenerAdapter{
         			+ "You can get these colors for your name by typing !<color>```");
         }
         
+        if (event.getMessage().getContent().toLowerCase().startsWith("!testing")) {
+        	GuildManager gm = new GuildManager(event.getGuild());
+        	for (Role role : event.getGuild().getRolesForUser(event.getAuthor())) {
+        		gm.removeRoleFromUser(event.getAuthor(), role);
+        		gm.update();
+        	}
+        }
+        
         if (event.getMessage().getContent().toLowerCase().startsWith("!red")) {
         	Role role = event.getGuild().getRoleById("193707590662881281");
         	GuildManager gm = new GuildManager(event.getGuild());
@@ -49,7 +57,7 @@ public class Colours extends ListenerAdapter{
         }
         
         if (event.getMessage().getContent().toLowerCase().startsWith("!orange")) {
-        	Role role = event.getGuild().getRoleById("");
+        	Role role = event.getGuild().getRoleById("195092610946170880");
         	GuildManager gm = new GuildManager(event.getGuild());
         	gm.addRoleToUser(event.getAuthor(), role);
         	gm.update();
