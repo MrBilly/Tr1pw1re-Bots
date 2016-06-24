@@ -10,7 +10,8 @@ public class Colours extends ListenerAdapter{
 	public void onMessageReceived(MessageReceivedEvent event)
     {
 		
-        if (event.getMessage().getContent().toLowerCase().startsWith("!colours")) {
+		if (event.getMessage().getContent().toLowerCase().startsWith("!colors")
+				|| event.getMessage().getContent().toLowerCase().startsWith("!colours")) {
         	event.getTextChannel().sendMessage(""
         			+ "```"
         			+ "1. Red\n"
@@ -22,22 +23,8 @@ public class Colours extends ListenerAdapter{
         			+ "7. Indigo\n"
         			+ "8. Violet\n"
         			+ "9. Black\n"
-        			+ "You can get these colours for your name by typing !<colour>```");
-        }
-        
-        if (event.getMessage().getContent().toLowerCase().startsWith("!colors")) {
-        	event.getTextChannel().sendMessage(""
-        			+ "```"
-        			+ "1. Red\n"
-        			+ "2. Orange\n"
-        			+ "3. Yellow\n"
-        			+ "4. Green\n"
-        			+ "5. Turquoise\n"
-        			+ "6. Blue\n"
-        			+ "7. Indigo\n"
-        			+ "8. Violet\n"
-        			+ "9. Black\n"
-        			+ "You can get these colors for your name by typing !<color>```");
+        			+ "You can get these colours/colors for your name by typing\n"
+        			+ "!<colour/color>```");
         }
         
         if (event.getMessage().getContent().toLowerCase().startsWith("!testing")) {
