@@ -31,25 +31,19 @@ public class Tr1pw1re {
 		
 		if (COMMAND.equalsIgnoreCase("announcement")) {
 			CHANNEL.sendMessage(""
-					+ "**Nicknames:**\n"
-					+ "All nicknames will remain the same as their in-game name, no matter the roles of one.\n"
-					+ "\nIf a member needs to change their names to their in-game name, Moderators+ will come by and assist you.\n"
-					+ "\n**Bots:**\n"
-					+ "`@Mee6` has a few commands for you to check out.\n"
-					+ "When you talk in chat once per minute, you earn experiences that can help you `!rank`.\n"
-					+ "Here is the link to the levels.\n"
-					+ "<https://mee6.xyz/levels/191420210568232961>\n"
-					+ "\nMusic Time! `@Tr1pw1re` allows you to play music in the Voice Channels.\n"
-					+ "Some basic musics commands are available using `!music`\n"
-					+ "\nAnd if you ever forget those commands, feel free to do `!help`\n"
-					+ "\n**Word Filters:**\n"
-					+ "Have you ever thought that when the owner is offline, you could be dirty as you want?\n"
-					+ "Well too bad! There’s a word filter system!\n"
-					+ "If you attempt to swear, the bot will remove your message and return you with a warning,\n"
-					+ "telling you that one of the words you had in your previous message contained a filtered word.\n"
-					+ "\nDon’t try.\n"
-					+ "\n**Promotions:**\n"
-					+ "Congratulations to QuanTBacon for earning Server Manager role!");
+					+ "```Update on June 23rd to June 24th.```
+					+ "1. We have added quite a few bots. They are:\n"
+					+ "@MathBot from a while ago,\n"
+					+ "@Onee-chan today,\n"
+					+ "@Ruby by @LeeCareGene,\n"
+					+ "@Septapus from some random XD,\n"
+					+ "@Evolva by @QuanTBacon our Server Manager, a bot developed by his own hands (or PC),\n"
+					+ "@Anastasia2 Can now play music like @Tr1pw1re, it acts as a Second Music Bot. Those have the same commands, except Anastasia bot uses ]m Instead. Queries feel free to PM !staff discord.\n"
+					+ "\n"
+					+ "2. Please do not share this Discord to the Enjin forum for Tr1pw1re. The server is not yet complete and we wish this to be private, even though we have invited several members of the community. We hope to announce the server.\n"
+					+ "Wun day. :wink:\n"
+					+ "\n"
+					+ "3. Please do not ask for roles/staff title. All requests related will be denied and ignored. Further annoyance will lead to mute/softban.");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("rules")) {
