@@ -12,10 +12,12 @@ import net.dv8tion.jda.managers.GuildManager;
 
 public class DiscordBot extends ListenerAdapter
 {
+	
     public static void main(String[] args) throws LoginException, IllegalArgumentException, InterruptedException
     {
         JDA jda = new JDABuilder().setBotToken("").buildBlocking();
         jda.addEventListener(new DiscordBot());
+        jda.addEventListener(new Colours());
     }
 
     @Override
