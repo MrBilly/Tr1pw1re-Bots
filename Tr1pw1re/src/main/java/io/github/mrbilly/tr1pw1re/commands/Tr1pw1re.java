@@ -48,8 +48,6 @@ public class Tr1pw1re {
 					+ "4. Aim for new ranks! The Honored rank stands out of Members, making you the one and only specials!" + "\n"
 					+ "\n"
 					+ "5. If you want to change the color of your name, do !colors or !colours and follow the instruction! Warning: this is only available to Members, not to the higher ranked roles.");
-<<<<<<< Updated upstream
-=======
 		}
 		
 		if (COMMAND.equalsIgnoreCase("pokegame")) {
@@ -69,7 +67,6 @@ public class Tr1pw1re {
 					+ "• If you are interested in signing up for a battle, contact one of the Discord Staffs.\n"
 					+ "• Once you are accepted, only you and your pals have access to the channel.\n"
 					+ "• Everyone else that is not included will only be able to view but unable to leave comments.\n");
->>>>>>> Stashed changes
 		}
 		
 		if (COMMAND.equalsIgnoreCase("rules")) {
