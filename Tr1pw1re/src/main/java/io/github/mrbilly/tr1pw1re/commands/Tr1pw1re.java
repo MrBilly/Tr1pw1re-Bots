@@ -48,6 +48,28 @@ public class Tr1pw1re {
 					+ "4. Aim for new ranks! The Honored rank stands out of Members, making you the one and only specials!" + "\n"
 					+ "\n"
 					+ "5. If you want to change the color of your name, do !colors or !colours and follow the instruction! Warning: this is only available to Members, not to the higher ranked roles.");
+<<<<<<< Updated upstream
+=======
+		}
+		
+		if (COMMAND.equalsIgnoreCase("pokegame")) {
+			CHANNEL.sendMessage(""
+					+ "Introducing the PokeGame update!\n"
+					+ "You now have access to commands that you can use to battle against others!\n"
+					+ "`>settype` = Sets your element type, can do >settype . to check the list of types available\n"
+					+ "`>ml` = Lists moves that you can use\n"
+					+ "`>attack <move name> @User` = Attacks specified user with specified move\n"
+					+ "`>heal @User` = Heals user to full HP\n"
+					+ "\nAny queries feel free to PM staff.\n");
+		}
+		
+		if (COMMAND.equalsIgnoreCase("pokebattle")) {
+			CHANNEL.sendMessage(""
+					+ "Here you can play the PokeBattle game.\n"
+					+ "• If you are interested in signing up for a battle, contact one of the Discord Staffs.\n"
+					+ "• Once you are accepted, only you and your pals have access to the channel.\n"
+					+ "• Everyone else that is not included will only be able to view but unable to leave comments.\n");
+>>>>>>> Stashed changes
 		}
 		
 		if (COMMAND.equalsIgnoreCase("rules")) {
@@ -96,11 +118,11 @@ public class Tr1pw1re {
 		if (COMMAND.equalsIgnoreCase("vote")) {
 			CHANNEL.sendMessage("Vote for Tr1pw1re here!: <http://tr1pw1re.com/vote>");
 		}
-
+		
 		if (COMMAND.equalsIgnoreCase("github")) {
 			CHANNEL.sendMessage(""
 					+ "You can contribute in the development of the Tr1pw1re bot in Github, or make a suggestion for more commands here!:" + "\n"
-					+ "`<https://github.com/MrBilly/Tr1pw1re-Bot>`");
+					+ "<https://github.com/MrBilly/Tr1pw1re-Bot>");
 		}
 	}
 }

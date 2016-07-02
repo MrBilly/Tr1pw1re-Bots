@@ -80,7 +80,7 @@ public class BotCommand {
 						+ "`" + COMMANDPREFIX + "rules`\n"
 						+ "		Shows a list of rules.\n"
 						+ "`" + COMMANDPREFIX + "announcement`\n"
-						+ "		Shows latest announcements as of **Sunday, 19 June 2016**.\n"
+						+ "		Shows latest announcements.\n"
 						+ "`" + COMMANDPREFIX + "staff`\n"
 						+ "		Get a list of staff.\n");
 			} else {
