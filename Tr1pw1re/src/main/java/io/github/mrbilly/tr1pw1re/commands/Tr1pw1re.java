@@ -31,7 +31,7 @@ public class Tr1pw1re {
 		
 		if (COMMAND.equalsIgnoreCase("announcement")) {
 			CHANNEL.sendMessage(""
-					+ "```Update on June 23rd to June 24th.```
+					+ "```Update on June 23rd to June 27th.```"
 					+ "1. We have added quite a few bots. They are:\n"
 					+ "@MathBot from a while ago,\n"
 					+ "@Onee-chan today,\n"
@@ -43,7 +43,11 @@ public class Tr1pw1re {
 					+ "2. Please do not share this Discord to the Enjin forum for Tr1pw1re. The server is not yet complete and we wish this to be private, even though we have invited several members of the community. We hope to announce the server.\n"
 					+ "Wun day. :wink:\n"
 					+ "\n"
-					+ "3. Please do not ask for roles/staff title. All requests related will be denied and ignored. Further annoyance will lead to mute/softban.");
+					+ "3. Please do not ask for roles/staff title. All requests related will be denied and ignored. Further annoyance will lead to mute/softban." + "\n"
+					+ "\n"
+					+ "4. Aim for new ranks! The Honored rank stands out of Members, making you the one and only specials!" + "\n"
+					+ "\n"
+					+ "5. If you want to change the color of your name, do !colors or !colours and follow the instruction! Warning: this is only available to Members, not to the higher ranked roles.");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("rules")) {
