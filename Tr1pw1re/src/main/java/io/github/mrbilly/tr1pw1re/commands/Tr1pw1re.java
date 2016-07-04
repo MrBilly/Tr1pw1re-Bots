@@ -31,7 +31,7 @@ public class Tr1pw1re {
 		
 		if (COMMAND.equalsIgnoreCase("announcement")) {
 			CHANNEL.sendMessage(""
-					+ "```Update on June 23rd to June 27th.```"
+					+ "```Update on June 23rd to July 4th```"
 					+ "1. We have added quite a few bots. They are:\n"
 					+ "@MathBot from a while ago,\n"
 					+ "@Onee-chan today,\n"
@@ -47,7 +47,10 @@ public class Tr1pw1re {
 					+ "\n"
 					+ "4. Aim for new ranks! The Honored rank stands out of Members, making you the one and only specials!" + "\n"
 					+ "\n"
-					+ "5. If you want to change the color of your name, do !colors or !colours and follow the instruction! Warning: this is only available to Members, not to the higher ranked roles.");
+					+ "5. If you want to change the color of your name, do !colors or !colours and follow the instruction! Warning: this is only available to Members, not to the higher ranked roles." + "\n"
+					+ "\n"
+					+ "6. Applications for Staff Roles such as bot developers and server managers have been enhanced and posted in #application! The Tr1pw1re Discord team is looking forward to seeing the brand new applications!" + "\n"
+					+ "   **Remember, don't ask about it or you will be denied and ignored immediately!**");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("pokegame")) {
