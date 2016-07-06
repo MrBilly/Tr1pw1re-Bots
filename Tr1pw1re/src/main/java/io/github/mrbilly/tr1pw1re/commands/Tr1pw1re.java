@@ -25,8 +25,17 @@ public class Tr1pw1re {
 					+ "`!m q <music here> = Queues music from Youtube`" + "\n"
 					+ "`!m lq = Lists queued music`" + "\n"
 					+ "`!m vol <0 ~ 100> = Changes volume of current music`" + "\n"
-					+ "`!m s / !m n = Stops all music, playing and queued`" + "\n"
-					+ "`!m rm <queue position> = Removes song from order specified`");
+					+ "`!m dv <0 ~ 100> = Sets the default music volume when music playback is started.` **Does not persist through restart**" + "\n"
+					+ "`!m n = Skips to the next song in queue`" + "\n"
+					+ "`!m s = Stops all music, playing and queued`" + "\n"
+					+ "`!m p = Pauses/Unpauses music player`" + "\n"
+					+ "`!m rm <queue position> = Removes song from order specified`" + "\n"
+					+ "`!m rm all = Removes all songs in queue, but not the one currently playing`" + "\n"
+					+ "`!m np = Shows the song currently playing`" + "\n"
+					+ "`!m sh = Shuffles all songs in queue`" + "\n"
+					+ "`!m pl <playlist here> = Queues up to 50 songs froma Youtube playlist`" + "\n"
+					+ "`!m scpl <link here> = Queues a Soundcloud playlist using a link`" + "\n"
+					+ "`!m gl = Gives the link of the current song`");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("announcement")) {
