@@ -40,26 +40,11 @@ public class Tr1pw1re {
 		
 		if (COMMAND.equalsIgnoreCase("announcement")) {
 			CHANNEL.sendMessage(""
-					+ "```Update on June 23rd to July 4th```"
-					+ "1. We have added quite a few bots. They are:\n"
-					+ "@MathBot from a while ago,\n"
-					+ "@Onee-chan today,\n"
-					+ "@Ruby by @LeeCareGene,\n"
-					+ "@Septapus from some random XD,\n"
-					+ "@Evolva by @QuanTBacon our Server Manager, a bot developed by his own hands (or PC),\n"
-					+ "@Anastasia2 Can now play music like @Tr1pw1re, it acts as a Second Music Bot. Those have the same commands, except Anastasia bot uses ]m Instead. Queries feel free to PM !staff discord.\n"
-					+ "\n"
-					+ "2. Please do not share this Discord to the Enjin forum for Tr1pw1re. The server is not yet complete and we wish this to be private, even though we have invited several members of the community. We hope to announce the server.\n"
-					+ "Wun day. :wink:\n"
-					+ "\n"
-					+ "3. Please do not ask for roles/staff title. All requests related will be denied and ignored. Further annoyance will lead to mute/softban." + "\n"
-					+ "\n"
-					+ "4. Aim for new ranks! The Honored rank stands out of Members, making you the one and only specials!" + "\n"
-					+ "\n"
-					+ "5. If you want to change the color of your name, do !colors or !colours and follow the instruction! Warning: this is only available to Members, not to the higher ranked roles." + "\n"
-					+ "\n"
-					+ "6. Applications for Staff Roles such as bot developers and server managers have been enhanced and posted in #application! The Tr1pw1re Discord team is looking forward to seeing the brand new applications!" + "\n"
-					+ "   **Remember, don't ask about it or you will be denied and ignored immediately!**");
+					+ "```Update from July 4th to July 6th```"
+					+ "1. Applications for Staff Roles such as bot developers and server managers have been enhanced and posted in #application! The Tr1pw1re Discord team is looking forward to seeing the brand new applications!\n"
+					+ "Remember, don't ask about it or you will be denied and ignored immediately!\n"
+					+ "2. Server Manager @QuanTBacon#9845 has a survey for TW members. Click the link below to fill it out. http://www.strawpoll.me/10669417 \n"
+					+ "3. Due to issues, Honored role will only be awarded at lvl 31. Sorry for the inconvenience.");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("pokegame")) {
@@ -83,13 +68,20 @@ public class Tr1pw1re {
 		
 		if (COMMAND.equalsIgnoreCase("rules")) {
 			CHANNEL.sendMessage(""
-					+ "• Do not use custom names, use your in-game name instead.\n"
+					+ "```Discord General Rules```\n"
+					+ "• Do not use custom names, use your in-game name instead\n"
 					+ "• Post NSFW contents in `#nsfw`\n"
 					+ "• Do not threaten others\n"
 					+ "• Do not spam bots, that makes them crash easily and our bot manager is not always on\n"
 					+ "• Roles will be given by the developers and moderators, so please do not complain\n"
-					+ "• Be respectful to staff members\n"
-					+ "• Any queries do not hesitate to ask the moderators and developers");
+					+ "• Be respectful to staff members and everyone else\n"
+					+ "• Use common sense. Decide what is right and what is wrong.\n"
+					+ "\n"
+					+ "```Discord Voice Rules```\n"
+					+ "• Do not breathe into your mikes (this will lead to server mute)\n"
+					+ "• Do not insult others (no matter indirectly or directly) in channels\n"
+					+ "• Use PPT (Push to talk) when you have background noises or you don't wish to have the world hear your every bit of life\n"
+					+ "• Do not play music through your mic since it causes loud noises, suggesting playing music through our music bots are the best choice\n");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("staff")) {
