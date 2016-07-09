@@ -38,7 +38,7 @@ public class Tr1pw1re {
 					+ "`!m gl = Gives the link of the current song`");
 		}
 		
-		if (COMMAND.equalsIgnoreCase("announcement")) {
+		if (COMMAND.equalsIgnoreCase("announcements")) {
 			CHANNEL.sendMessage(""
 					+ "```Update from July 4th to July 6th```"
 					+ "1. Applications for Staff Roles such as bot developers and server managers have been enhanced and posted in #application! The Tr1pw1re Discord team is looking forward to seeing the brand new applications!\n"
