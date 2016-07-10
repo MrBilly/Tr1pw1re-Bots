@@ -18,30 +18,11 @@ namespace EvolvaBot
     public class EvolvaBot
     {
         public static DiscordClient Client { get; private set; }
-        public static EvolvaWindow controlPanel { get; private set; }
 
         // Version name should be [major].[minor].[patch].[version name]
         // Version name should be MMDDYY
-        private static string VERSION = "2.0.0.071016";
+        private static string VERSION = "2.0.1.071016";
         private static string CODENAME = "Beryl 緑柱石";
-        /*
-         * Azurite 藍銅鉱
-         * Beryl   緑柱石
-         * Chrysoberyl クリソベリル
-         * Diamond ダイヤモンド
-         * Erythrite エリトリット
-         * Feldspar 長石
-         * Garnet ガーネット
-         * Hauyne 藍方石
-         * Jade ジェイド
-         * Kyanite カイヤナイト
-         * Lazurite 青金石
-         * Malachite マラカイト
-         * Nepheline 霞石
-         * Olivine かんらん石
-         * Peridot ペリドット
-         * 
-         */
 
         public static Credentials Creds { get; set; }
         public static Configuration Config { get; set; }
@@ -82,15 +63,6 @@ namespace EvolvaBot
                 Console.WriteLine(e.Message);
             }
 
-            controlPanel = new EvolvaWindow();
-            if(controlPanel.Created)
-            {
-                PrintInfo("Control Panel initialized");
-            }
-            else
-            {
-                PrintError("Couldn't create Control Panel");
-            }
             Client = new DiscordClient(new DiscordConfigBuilder()
             {
                 MessageCacheSize = 10,
@@ -168,7 +140,8 @@ namespace EvolvaBot
                     "Evolva `[RELEASE]`" + "\n"
                     + "Version " + VERSION + " (" + CODENAME + ")\n"
                     + "Written by QuanTBacon, in C# using Discord.NET" + "\n"
-                    + "\nEvolva is an intelligent assistant that aims to be like Cortana on Windows 10 & Siri on iOS, but at a lesser degree.");
+                    + "\nEvolva is an intelligent assistant that aims to be like Cortana on Windows 10 & Siri on iOS, but at a lesser degree."
+                    + "\nThis project is open source, and can be found here: <https://github.com/MrBilly/Tr1pw1re-Bots/tree/master/Evolva>");
             }
 
             if(e.Message.Text == "!evolva help")

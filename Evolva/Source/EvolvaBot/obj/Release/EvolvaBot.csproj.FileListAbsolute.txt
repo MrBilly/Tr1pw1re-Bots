@@ -46,3 +46,27 @@ D:\_Documents\Evolva\EvolvaBot\bin\Release\RestSharp.xml
 D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.csprojResolveAssemblyReference.cache
 D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.EvolvaWindow.resources
 D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.csproj.GenerateResource.Cache
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\EvolvaBot.exe.config
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Release\EvolvaBot.exe
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Release\EvolvaBot.pdb
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\EvolvaBot.exe
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\EvolvaBot.pdb
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Discord.Net.Audio.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Discord.Net.Commands.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Discord.Net.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Discord.Net.Modules.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\libvideo.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Newtonsoft.Json.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Nito.AsyncEx.Concurrent.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Nito.AsyncEx.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Nito.AsyncEx.Enlightenment.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\RestSharp.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\WebSocket4Net.dll
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Newtonsoft.Json.xml
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Nito.AsyncEx.xml
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Nito.AsyncEx.Concurrent.xml
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\Nito.AsyncEx.Enlightenment.xml
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Release\RestSharp.xml
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Release\EvolvaBot.csprojResolveAssemblyReference.cache
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Release\EvolvaBot.EvolvaWindow.resources
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Release\EvolvaBot.csproj.GenerateResource.Cache

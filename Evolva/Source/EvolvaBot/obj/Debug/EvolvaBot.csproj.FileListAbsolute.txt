@@ -40,3 +40,6 @@ D:\_Documents\Evolva\EvolvaBot\bin\Debug\RestSharp.xml
 D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.csprojResolveAssemblyReference.cache
 D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.EvolvaWindow.resources
 D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.csproj.GenerateResource.Cache
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\bin\Debug\EvolvaBot.exe.config
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Debug\EvolvaBot.exe
+D:\_Git Clones\Tr1pw1re-Bot\Evolva\Source\EvolvaBot\obj\Debug\EvolvaBot.pdb
