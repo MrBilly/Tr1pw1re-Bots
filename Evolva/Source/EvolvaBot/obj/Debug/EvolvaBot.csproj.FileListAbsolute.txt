@@ -1,0 +1,42 @@
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\EvolvaBot.exe.config
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\EvolvaBot.exe
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\EvolvaBot.pdb
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Discord.Net.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\RestSharp.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\WebSocket4Net.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Debug\RestSharp.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\obj\Debug\EvolvaBot.csprojResolveAssemblyReference.cache
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\obj\Debug\EvolvaBot.exe
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\obj\Debug\EvolvaBot.pdb
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\EvolvaBot.exe.config
+D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.exe
+D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.pdb
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\EvolvaBot.exe
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\EvolvaBot.pdb
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Discord.Net.Audio.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Discord.Net.Commands.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Discord.Net.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Discord.Net.Modules.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\libvideo.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Newtonsoft.Json.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\RestSharp.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\WebSocket4Net.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Newtonsoft.Json.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Debug\RestSharp.xml
+D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.csprojResolveAssemblyReference.cache
+D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.EvolvaWindow.resources
+D:\_Documents\Evolva\EvolvaBot\obj\Debug\EvolvaBot.csproj.GenerateResource.Cache

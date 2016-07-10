@@ -1,0 +1,3 @@
+﻿For next release:
+-Make a new RoleManager module
+-Finish on Music Module

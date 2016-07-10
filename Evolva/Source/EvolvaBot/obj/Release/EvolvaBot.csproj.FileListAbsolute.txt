@@ -1,0 +1,48 @@
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\EvolvaBot.exe.config
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\EvolvaBot.exe
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\EvolvaBot.pdb
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Discord.Net.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Newtonsoft.Json.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Concurrent.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Enlightenment.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\RestSharp.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\WebSocket4Net.dll
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Newtonsoft.Json.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Concurrent.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Enlightenment.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\bin\Release\RestSharp.xml
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\obj\Release\EvolvaBot.exe
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\obj\Release\EvolvaBot.pdb
+c:\users\bryan lai\documents\visual studio 2015\Projects\Evolva\EvolvaBot\obj\Release\EvolvaBot.csprojResolveAssemblyReference.cache
+C:\Users\Bryan Lai\Documents\Visual Studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Discord.Net.Audio.dll
+C:\Users\Bryan Lai\Documents\Visual Studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Discord.Net.Commands.dll
+C:\Users\Bryan Lai\Documents\Visual Studio 2015\Projects\Evolva\EvolvaBot\bin\Release\Discord.Net.Modules.dll
+C:\Users\Bryan Lai\Documents\Visual Studio 2015\Projects\Evolva\EvolvaBot\bin\Release\libvideo.dll
+C:\Users\Bryan Lai\Documents\Visual Studio 2015\Projects\Evolva\EvolvaBot\obj\Release\EvolvaBot.EvolvaWindow.resources
+C:\Users\Bryan Lai\Documents\Visual Studio 2015\Projects\Evolva\EvolvaBot\obj\Release\EvolvaBot.csproj.GenerateResource.Cache
+D:\_Documents\Evolva\EvolvaBot\bin\Release\EvolvaBot.exe.config
+D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.exe
+D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.pdb
+D:\_Documents\Evolva\EvolvaBot\bin\Release\EvolvaBot.exe
+D:\_Documents\Evolva\EvolvaBot\bin\Release\EvolvaBot.pdb
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Discord.Net.Audio.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Discord.Net.Commands.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Discord.Net.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Discord.Net.Modules.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\libvideo.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Newtonsoft.Json.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Concurrent.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Enlightenment.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\RestSharp.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\WebSocket4Net.dll
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Newtonsoft.Json.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Concurrent.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Release\Nito.AsyncEx.Enlightenment.xml
+D:\_Documents\Evolva\EvolvaBot\bin\Release\RestSharp.xml
+D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.csprojResolveAssemblyReference.cache
+D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.EvolvaWindow.resources
+D:\_Documents\Evolva\EvolvaBot\obj\Release\EvolvaBot.csproj.GenerateResource.Cache
