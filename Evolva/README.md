@@ -4,7 +4,7 @@ Evolva is Discord Bot made by [QuanTBacon] (https://github.com/QuanTBacon), usin
 Evolva is entirely written from **scratch**, with some references from the [NadekoBot] (https://github.com/Kwoth/NadekoBot).
 
 # Navigation
-**/Releases/**: All releases in Zip files\n
+**/Releases/**: All releases in Zip files \n
 **/Source/**: Source code for Evolva
 
 # How to use Evolva
