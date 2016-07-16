@@ -18,4 +18,8 @@ The folder **Tr1pw1re** features source code from [LX_Gaming's] (https://github.
 
 • Submit your issue
 
+<<<<<<< HEAD
 ![img](https://www.dropbox.com/s/h3vupw161sje6jr/scrnshot-3.png?dl=1)
+=======
+![img](https://www.dropbox.com/s/h3vupw161sje6jr/scrnshot-3.png?dl=1)
+>>>>>>> origin/master
