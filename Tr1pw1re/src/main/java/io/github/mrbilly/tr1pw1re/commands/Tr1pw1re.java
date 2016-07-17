@@ -99,7 +99,8 @@ public class Tr1pw1re {
 					+ "```xl\n"
 					+ "• MrBilly - Developer\n"
 					+ "• cherry2003 - Developer\n"
-					+ "• QuanTBacon - Server Manager```");
+					+ "• QuanTBacon - Server Manager\n"
+					+ "• CheeseChris - NSFW Moderator```");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("staff server")) {
