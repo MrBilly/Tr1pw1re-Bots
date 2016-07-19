@@ -29,7 +29,7 @@ namespace Anastasia_II
 
             client.ExecuteAndWait(async () =>
             {
-                await client.Connect("MTkxOTA2NTgwOTc4MDczNjA0.Ckwvcg.zrIDXUEyBrUF2rOt3CrImqYWzmA");
+                await client.Connect("");
             });
         }
 
