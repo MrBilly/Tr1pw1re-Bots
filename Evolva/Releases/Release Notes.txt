@@ -1,0 +1,15 @@
+Release notes for 6/22/2016 (Version 0.1.0.062216):
+• Added new basic commands
+
+Release notes for 7/04/2016 (Version 1.1.0.070416[BETA])
+• Support for Discord modules
+• Added Music[WIP] and RoleManagement modules
+
+Release notes for 7/10/2016 Release (Version 2.0.0.071016[RELEASE])
+• Evolva should now be on the server 24/7(unless a network or system failure), thanks to MrBilly and Spyro
+• Time command should now display proper times, also added a time for Vancouver
+• Used JSON file for storing credentials and configuration
+• Evolva is now open source(!)
+
+Release notes for 7/10/2016 Patch (Version 2.0.1.071016[RELEASE])
+• Removed some legacy and unused code
