@@ -13,3 +13,13 @@ Release notes for 7/10/2016 Release (Version 2.0.0.071016[RELEASE])
 
 Release notes for 7/10/2016 Patch (Version 2.0.1.071016[RELEASE])
 • Removed some legacy and unused code
+
+Release notes for 7/23/2016 Release (Version 3.0.0.072316[BETA])
+• Moved exisitng base commands to a seperate module
+• Added a logging system to log user status(game updates coming soon!)
+• Added "!evolva quotes" command, for motivating quotes!
+• Added Japan and Korea times to "!evolva time"
+• Added "!evolva stats" command
+• Added "!evolva uinfo" command that displays user information
+• Added "!evolva setmood" command that sets a message/mood that displays in the user info
+• Added a "User Info" system that stores certain user information into JSON files
