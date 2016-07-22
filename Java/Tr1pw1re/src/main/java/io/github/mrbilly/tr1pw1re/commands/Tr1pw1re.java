@@ -61,35 +61,33 @@ public class Tr1pw1re {
 		if (COMMAND.equalsIgnoreCase("pokebattle")) {
 			CHANNEL.sendMessage(""
 					+ "Here you can play the PokeBattle game.\n"
-					+ "â€¢ If you are interested in signing up for a battle, contact one of the Discord Staffs.\n"
-					+ "â€¢ Once you are accepted, only you and your pals have access to the channel.\n"
-					+ "â€¢ Everyone else that is not included will only be able to view but unable to leave comments.\n");
+					+ "• If you are interested in signing up for a battle, contact one of the Discord Staffs.\n"
+					+ "• Once you are accepted, only you and your pals have access to the channel.\n"
+					+ "• Everyone else that is not included will only be able to view but unable to leave comments.\n");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("rules")) {
 			CHANNEL.sendMessage(""
 					+ "```Discord General Rules```\n"
-					+ "â€¢ Do not use custom names, use your in-game name instead\n"
-					+ "â€¢ Post NSFW contents in `#nsfw`\n"
-					+ "â€¢ Do not threaten others\n"
-					+ "â€¢ Do not spam bots, that makes them crash easily and our bot manager is not always on\n"
-					+ "â€¢ Roles will be given by the developers and moderators, so please do not complain\n"
-					+ "â€¢ Be respectful to staff members and everyone else\n"
-					+ "â€¢ Use common sense. Decide what is right and what is wrong.\n"
+					+ "• Do not use custom names, use your in-game name instead\n"
+					+ "• Post NSFW contents in `#nsfw`\n"
+					+ "• Do not threaten others\n"
+					+ "• Do not spam bots, that makes them crash easily and our bot manager is not always on\n"
+					+ "• Roles will be given by the developers and moderators, so please do not complain\n"
+					+ "• Be respectful to staff members and everyone else\n"
+					+ "• Use common sense. Decide what is right and what is wrong.\n"
 					+ "\n"
 					+ "```Discord Voice Rules```\n"
-					+ "â€¢ Do not breathe into your mikes (this will lead to server mute)\n"
-					+ "â€¢ Do not insult others (no matter indirectly or directly) in channels\n"
-					+ "â€¢ Use PPT (Push to talk) when you have background noises or you don't wish to have the world hear your every bit of life\n"
-					+ "â€¢ Do not play music through your mic since it causes loud noises, suggesting playing music through our music bots are the best choice\n");
+					+ "• Do not breathe into your mikes (this will lead to server mute)\n"
+					+ "• Do not insult others (no matter indirectly or directly) in channels\n"
+					+ "• Use PPT (Push to talk) when you have background noises or you don't wish to have the world hear your every bit of life\n"
+					+ "• Do not play music through your mic since it causes loud noises, suggesting playing music through our music bots are the best choice\n");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("staff")) {
 			CHANNEL.sendMessage(""
 					+ "`" + COMMANDPREFIX + "staff discord`\n"
-					+ "		List of staff on Discord.\n"
-					+ "`" + COMMANDPREFIX + "staff server`\n"
-					+ "		List of staff on Server.\n");
+					+ "		List of staff on Discord.");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("staff discord")) {
@@ -97,24 +95,13 @@ public class Tr1pw1re {
 					+ "List of staff on Discord:\n"
 					+ "\n"
 					+ "```xl\n"
-					+ "â€¢ MrBilly - Developer\n"
-					+ "â€¢ cherry2003 - Developer\n"
-					+ "â€¢ QuanTBacon - Server Manager\n"
-					+ "â€¢ CheeseChris - NSFW Moderator```");
-		}
-		
-		if (COMMAND.equalsIgnoreCase("staff server")) {
-			CHANNEL.sendMessage(""
-					+ "List of staff on Server:\n"
-					+ "\n"
-					+ "```xl\n"
-					+ "â€¢ kjburr - Owner\n"
-					+ "â€¢ Kelly - Co-Owner\n"
-					+ "â€¢ Arustyred - Moderator\n"
-					+ "â€¢ Haydeezx - Moderator\n"
-					+ "â€¢ Kawaii_Potatoes - Moderator\n"
-					+ "â€¢ SiiM - Moderator\n"
-					+ "â€¢ MVGlad - Moderator```");
+					+ "• MrBilly - Developer\n"
+					+ "• cherry2003 - Developer\n"
+					+ "• kspyro998877 - Developer\n"
+					+ "• QuanTBacon - Server Manager\n"
+					+ "• Helga - Anime Moderator\n"
+					+ "• CheeseChris - NSFW Moderator\n"
+					+ "• LeeCareGene - Bot Developer```");
 		}
 		
 		if (COMMAND.equalsIgnoreCase("vote")) {
