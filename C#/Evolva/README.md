@@ -8,7 +8,7 @@ Evolva is entirely written from **scratch**, with some references from the [Nade
 - **/Source/**: Source code for Evolva
 
 # How to use Evolva
-1. Download the latest release [here] (https://github.com/MrBilly/Tr1pw1re-Bots/blob/master/Evolva/Releases/Evolva%20%5BRELEASE%5D%202.0.0%20Beryl%20RC1.zip), or find old releases from the Releases directory.
+1. Download the latest release [here] (https://github.com/MrBilly/Tr1pw1re-Bots/blob/master/C%23/Evolva/Releases/Evolva%20%5BRELEASE%5D%202.0.1%20Beryl.zip), or find old releases from the Releases directory.
 2. Insert a bot token in the "token" variable found in **/json/credentials.json**.
 3. Launch **EvolvaBot.exe**
 
