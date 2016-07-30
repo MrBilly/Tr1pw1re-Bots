@@ -45,7 +45,14 @@ namespace Anastasia_II
                     + "**`~anastasia`** = Displays this list\n"
                     + "**`~anastasia info`** = Displays Bot Info\n"
                     + "**`~anastasia aye`** = Say hello to Anastasia!\n"
-                    + "**`~anastasia cherry`** = Short message on Cherry... Random!");
+                    + "**`~anastasia cherry`** = Short message on Cherry... Random!"
+                    + "**`~anastasia banana`** = Can you hold your breath through this whole passage?");
+            }
+            
+            if (e.Message.Text == Prefix + "anastasia banana")
+            {
+                await e.Channel.SendMessage (""
+                    + "```You put a banana in a banana by putting one inside a banana so that the banana can stay within the banana because if you don't put the banana inside the banana then you cannot complete your theory about how to put a banana within a banana.```");
             }
         }
     }
