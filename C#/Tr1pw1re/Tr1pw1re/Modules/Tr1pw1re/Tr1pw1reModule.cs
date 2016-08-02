@@ -51,7 +51,7 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                     .Do(async e =>
                     {
                         await e.Channel.SendMessage(""
-                            + "```Quick Update:\n"
+                            + "```Quick Update:```\n"
                             + "1. Tr1pw1re server has been released to [OFFICIAL] state!\n"
                             + "2. We have a custom mood message implemented into every user's `!uinfo` page! To begin, `!evolva sm`, your mood message function will be generated. To change your mood message, `!evolva` sm [here].\n"
                             + "3. Lots of text channels has been removed!\n"
