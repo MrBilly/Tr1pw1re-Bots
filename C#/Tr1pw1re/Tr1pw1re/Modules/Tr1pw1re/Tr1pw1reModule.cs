@@ -92,6 +92,7 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                             + "• joynilanjan2014 - Junior Server Manager"
                             + "• Helga - Anime Moderator\n"
                             + "• CheeseChris - LoL Moderator\n"
+                            + "• CaptainCarrot - NSFW Moderator\n"
                             + "• DexTMK - NSFW Moderator\n"
                             + "• LeeCareGene - Bot Developer");
                     });
