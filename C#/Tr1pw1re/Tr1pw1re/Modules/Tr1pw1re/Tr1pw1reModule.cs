@@ -50,12 +50,14 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                 cgb.CreateCommand(Prefix + "announcements")
                     .Do(async e =>
                     {
+                        var LoL = e.Server.FindChannels("league-of-legends").FirstOrDefault();
+                        var anime = e.Server.FindChannels("anime").FirstOrDefault();
                         await e.Channel.SendMessage(""
                             + "```Quick Update:```\n"
                             + "1. Tr1pw1re server has been released to [OFFICIAL] state!\n"
                             + "2. We have a custom mood message implemented into every user's `!uinfo` page! To begin, `!evolva sm`, your mood message function will be generated. To change your mood message, `!evolva` sm [here].\n"
                             + "3. Lots of text channels has been removed!\n"
-                            + "4. Adding on to announcement 3, we have created a few channels: #league-of-legends and #anime. We have given those two channels seperate channel moderators to keep watch at all times.");
+                            + "4. Adding on to announcement 3, we have created a few channels: " + LoL.Mention + " and " + anime.Mention + ". We have given those two channels seperate channel moderators to keep watch at all times.");
                     });
 
                 cgb.CreateCommand(Prefix + "rules")
@@ -83,18 +85,18 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                     .Do(async e =>
                     {
                         await e.Channel.SendMessage(""
-                            + "```List of staff on Discord:```\n"
-                            + "\n"
+                            + "List of staff on Discord:\n"
+                            + "\n```xl\n"
                             + "• MrBilly - Developer\n"
                             + "• kspyro998877 - Developer\n"
                             + "• cherry2003 - Developer\n"
-                            + "• QuanTBacon - Senior Server Manager\n
-                            + "• joynilanjan2014 - Junior Server Manager"
+                            + "• QuanTBacon - Senior Server Manager\n"
+                            + "• joynilanjan2014 - Junior Server Manager\n"
                             + "• Helga - Anime Moderator\n"
                             + "• CheeseChris - LoL Moderator\n"
                             + "• CaptainCarrot - NSFW Moderator\n"
                             + "• DexTMK - NSFW Moderator\n"
-                            + "• LeeCareGene - Bot Developer");
+                            + "• LeeCareGene - Bot Developer```");
                     });
 
                 cgb.CreateCommand(Prefix + "github")
