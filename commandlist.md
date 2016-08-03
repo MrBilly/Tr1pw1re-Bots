@@ -46,7 +46,9 @@ Commands | Description | Usage
 `~gelbooru` | Bot searches gelbooru images and posts in channel | |
 `~cp` | You never know... | |
 `~e621` | Bot searches e621 images and posts in channel | |
-
+`@LewdBot ehentai` | Searches For Hentai on E-Hentai | `@LewdBot ehentai hatsune miku` 
+`@LewdBot exhentai search` | Searches For Hentai on ExHentai | `@LewdBot exhentai search hatsune miku`
+`@LewdBot exhentai info` | Searches For Hentai on ExHentai | `@LewdBot exhentai info 896497/0cccbb3ae2/`
 
 #Entertainment Commands
 ###These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
