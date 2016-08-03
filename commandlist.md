@@ -10,6 +10,9 @@ Commands | Description | Usage
 `~trans` | Translates a language into another language | `~trans en>chinese Hello` = Translates the english word 'hello' into chinese, giving you '你好' |
 `@Tr1pw1re` | Talks with Tr1pw1re bot | `@Tr1pw1re hello there!` = Tr1pw1re receives this message and likely reply you with a good message.
 `~ir` | Searches an image related to your given keyword | `~ir nyan cat` = Searches 'Nyan cat' online and gives you an image it found.
+`!staff` | Lists Tr1pw1re Discord staff | |
+`!announcements` | Shows recently updated announcements from the last added ones | |
+`!colors` or `!colours` | Shows colors available for your name | |
 
 
 #Music Commands
