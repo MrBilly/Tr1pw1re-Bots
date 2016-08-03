@@ -61,6 +61,7 @@ Commands | Description | Usage
 ###These commands are only allowed in the NSFW channel.
 
 Commands | Description | Usage
+---------------|-------------|--------
 `-commands nsfw` | Displays full list of nsfw commands | |
 `~hentai` | Bot searches hentai images online and posts in channel | |
 `~boobs` | Bot searches boob images online and posts in channel | |
