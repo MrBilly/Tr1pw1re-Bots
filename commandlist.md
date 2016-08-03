@@ -79,6 +79,7 @@ Commands |  Description |  Usage
 `!uncooldown` | Unmutes mentioned user if they are part of the Muted group, allowing them to talk again | `!uncooldown @Bob` = Unmutes Bob |
 `.kick` | Kicks mentioned user from server | `.kick @bob Show mature behavior` = Kicks Bob and sends 'show mature behavior' to him via DM |
 `.prune` | Removes messages (This is difficult to explain, please ask Senior Staffs for tutorial) | `.prune 3` = Removes your `.prune` message and 3 messages before it |
+`.inrole` | Shows users inside certain roles | `.inrole Server Manager` = Displays lists of members within the role 'Server Manager' |
 `;afw` | Adds filter word to filter list | `;afw shit` = Adds the word 'shit' to the filter list |
 `;rfw` | Unfilters word from filter list | `;rfw shit` = Removes 'shit' from filter list |
 `;lfw` | Lists filter list | |
