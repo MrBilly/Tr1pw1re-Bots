@@ -1,5 +1,17 @@
 Here are a list of commands you can use on Tr1pw1re Discord.
 
+#General Commands
+###These are general commands that could be useful and don't fall into a big category of commands we have.
+
+Commands | Description | Usage
+-------------|----------------|--------
+`-h` | Describes the use of a command | `-h .softban` = Explains what `.softban` does |
+`-modules` | Displays a list of available nadeko modules | |
+`~trans` | Translates a language into another language | `~trans en>chinese Hello` = Translates the english word 'hello' into chinese, giving you '你好' |
+`@Tr1pw1re` | Talks with Tr1pw1re bot | `@Tr1pw1re hello there!` = Tr1pw1re receives this message and likely reply you with a good message.
+`~ir` | Searches an image related to your given keyword | `~ir nyan cat` = Searches 'Nyan cat' online and gives you an image it found.
+
+
 #Music Commands
 ### These commands helps you queue music, change the volume, gives you links to the music, etc. Although these commands are the main ones you will be using.
 
@@ -19,12 +31,40 @@ Commands |  Description |  Usage
 `!m soundcloudqueue` | Queues music from soundcloudqueue, works the same way as `!m q` | `!m soundcloudqueue nugget biscuit` = Goes on soundcloudqueue and searches 'nugget biscuit' |
 `!m s` | Stops all music | |
 
+
+#NSFW Commands
+###These commands are only allowed in the NSFW channel.
+
+Commands | Description | Usage
+---------------|-------------|--------
+`-commands nsfw` | Displays full list of nsfw commands | |
+`~hentai` | Bot searches hentai images online and posts in channel | |
+`~boobs` | Bot searches boob images online and posts in channel | |
+`~butts` | Bot searches butt images online and posts in channel | |
+`~danbooru` | Bot searches danbooru images online and posts in channel | |
+`~rule34` | Bot searches rule34 images and posts in channel | |
+`~gelbooru` | Bot searches gelbooru images and posts in channel | |
+`~cp` | You never know... | |
+`~e621` | Bot searches e621 images and posts in channel | |
+
+
+#Entertainment Commands
+###These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
+
+Commands | Description | Usage
+--------------|------------|----------
+`-commands games` | Displays full list of game commands | |
+`>8ball` | Asks 8ball a yes/no question | `>8ball Should I sleep now?` = 8ball replies you a yes/no answer to the question 'should I sleep now?'
+`>choose` | Randomly selects a option from the list of options given | `>choose Sleep;Eat;Game` = Bot selects one of the 3 options available and replies back to you
+`>plant` | Plants a flower in the channel! | |
+`>pick` | Picks a flower that is planted in the channel! | |
+
+
 #Administration Commands (Staff Only)
 ###These commands helps staff easily moderate or administrate the server. Do not abuse your power.
 
 Commands |  Description |  Usage
 ---------------------|--------------|--------
-`-h` | Describes the use of a command | `-h .softban` = Explains what `.softban` does |
 `-commands administration` | Displays all the administration commands in the channel | |
 `.softban` | Soft bans people | `.softban @Bob Spamming in chat` = Bans and then unbans Bob from the server and allows bot to send a message to Bob of the reason "spamming in chat" |
 `.ban` | Bans people | `.ban @Bob Advertising servers in public chat` = Bans Bob indefinitedly with a reason |
@@ -44,30 +84,3 @@ Commands |  Description |  Usage
 `.cr` | Creates role with a given name | `.cr Mateys` = Creates a role called 'Mateys' |
 `.sr` | Sets a role with given user | `.sr @Bob Mateys` = Gives Bob the role 'Mateys' |
 `.rr` | Removes role from a given user | `.rr @Bob Mateys` = Removes role 'Mateys' from Bob |
-
-#Entertainment Commands
-###These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
-
-Commands | Description | Usage
---------------|------------|----------
-`-commands games` | Displays full list of game commands | |
-`>8ball` | Asks 8ball a yes/no question | `>8ball Should I sleep now?` = 8ball replies you a yes/no answer to the question 'should I sleep now?'
-`>choose` | Randomly selects a option from the list of options given | `>choose Sleep;Eat;Game` = Bot selects one of the 3 options available and replies back to you
-`>plant` | Plants a flower in the channel! | |
-`>pick` | Picks a flower that is planted in the channel! | |
-
-
-#NSFW Commands
-###These commands are only allowed in the NSFW channel.
-
-Commands | Description | Usage
----------------|-------------|--------
-`-commands nsfw` | Displays full list of nsfw commands | |
-`~hentai` | Bot searches hentai images online and posts in channel | |
-`~boobs` | Bot searches boob images online and posts in channel | |
-`~butts` | Bot searches butt images online and posts in channel | |
-`~danbooru` | Bot searches danbooru images online and posts in channel | |
-`~rule34` | Bot searches rule34 images and posts in channel | |
-`~gelbooru` | Bot searches gelbooru images and posts in channel | |
-`~cp` | You never know... | |
-`~e621` | Bot searches e621 images and posts in channel | |
