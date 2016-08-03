@@ -24,4 +24,18 @@ Commands |  Description |  Usage
 
 Commands |  Description |  Usage
 ---------------------|--------------|--------
-`.softban` | Soft bans people | `.softban @Bob Spamming in chat` = Kicks Bob from the server and allows bot to send a message to Bob of the reason "spamming in chat" |
+`.softban` | Soft bans people | `.softban @Bob Spamming in chat` = Bans and then unbans Bob from the server and allows bot to send a message to Bob of the reason "spamming in chat" |
+`.ban` | Bans people | `.ban @Bob Advertising servers in public chat` = Bans Bob indefinitedly with a reason |
+`.slowmode` | When enabled, everyone will only be able to send 1 message/5 seconds | |
+`.announce` | Announces through bot <b>(Bot Owner Only)</b> | `.announce Bot restarting in 10 minutes` = Announces 'bot restarting in 10 minutes' in channels |
+`!cooldown` | Mutes mentioned user, making them unable to speak | `!cooldown @Bob` = Mutes Bob so that he cannot speak anywhere |
+`!uncooldown` | Unmutes mentioned user if they are part of the Muted group, allowing them to talk again | `!uncooldown @Bob` = Unmutes Bob |
+`.kick` | Kicks mentioned user from server | `.kick @bob Show mature behavior` = Kicks Bob and sends 'show mature behavior' to him via DM |
+`.prune` | Removes messages (This is difficult to explain, please ask Senior Staffs for tutorial) | `.prune 3` = Removes your `.prune` message and 3 messages before it |
+`;afw` | Adds filter word to filter list | `;afw shit` = Adds the word 'shit' to the filter list |
+`;rfw` | Unfilters word from filter list | `;rfw shit` = Removes 'shit' from filter list |
+`;lfw` | Lists filter list | |
+`;cfw 1` | Enable filter for specific channel | |
+`;cfw 0` | Disable filter for specific channel | |
+`;sfw 1` | Enable filter for whole server | |
+`;sfw 0` | Disable filter for whole server | |
