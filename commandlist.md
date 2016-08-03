@@ -24,6 +24,8 @@ Commands |  Description |  Usage
 
 Commands |  Description |  Usage
 ---------------------|--------------|--------
+`-h` | Describes the use of a command | `-h .softban` = Explains what `.softban` does |
+`-commands administration` | Displays all the administration commands in the channel | |
 `.softban` | Soft bans people | `.softban @Bob Spamming in chat` = Bans and then unbans Bob from the server and allows bot to send a message to Bob of the reason "spamming in chat" |
 `.ban` | Bans people | `.ban @Bob Advertising servers in public chat` = Bans Bob indefinitedly with a reason |
 `.slowmode` | When enabled, everyone will only be able to send 1 message/5 seconds | |
@@ -39,3 +41,32 @@ Commands |  Description |  Usage
 `;cfw 0` | Disable filter for specific channel | |
 `;sfw 1` | Enable filter for whole server | |
 `;sfw 0` | Disable filter for whole server | |
+`.cr` | Creates role with a given name | `.cr Mateys` = Creates a role called 'Mateys' |
+`.sr` | Sets a role with given user | `.sr @Bob Mateys` = Gives Bob the role 'Mateys' |
+`.rr` | Removes role from a given user | `.rr @Bob Mateys` = Removes role 'Mateys' from Bob |
+
+#Entertainment Commands
+###These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
+
+Commands | Description | Usage
+--------------|------------|----------
+`-commands games` | Displays full list of game commands | |
+`>8ball` | Asks 8ball a yes/no question | `>8ball Should I sleep now?` = 8ball replies you a yes/no answer to the question 'should I sleep now?'
+`>choose` | Randomly selects a option from the list of options given | `>choose Sleep;Eat;Game` = Bot selects one of the 3 options available and replies back to you
+`>plant` | Plants a flower in the channel! | |
+`>pick` | Picks a flower that is planted in the channel! | |
+
+
+#NSFW Commands
+###These commands are only allowed in the NSFW channel.
+
+Commands | Description | Usage
+`-commands nsfw` | Displays full list of nsfw commands | |
+`~hentai` | Bot searches hentai images online and posts in channel | |
+`~boobs` | Bot searches boob images online and posts in channel | |
+`~butts` | Bot searches butt images online and posts in channel | |
+`~danbooru` | Bot searches danbooru images online and posts in channel | |
+`~rule34` | Bot searches rule34 images and posts in channel | |
+`~gelbooru` | Bot searches gelbooru images and posts in channel | |
+`~cp` | You never know... | |
+`~e621` | Bot searches e621 images and posts in channel | |
