@@ -49,6 +49,12 @@ namespace Anastasia_II
                     + "**`~anastasia banana`** = Can you hold your breath through this whole passage?");
             }
             
+            if (e.Message.Text == Prefix + "ping")
+            {
+                await e.Channel.SendMessage(""
+                    + "Pong!")''
+            }
+            
             if (e.Message.Text == Prefix + "anastasia banana")
             {
                 await e.Channel.SendMessage (""
