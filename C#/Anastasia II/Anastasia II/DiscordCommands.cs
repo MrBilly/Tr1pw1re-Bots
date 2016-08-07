@@ -29,8 +29,8 @@ namespace Anastasia_II
             if (e.Message.Text == Prefix + "anastasia info")
             {
                 var cherry2003 = e.Server.FindUsers("cherry2003").FirstOrDefault();
-                await e.Channel.SendMessage(
-                    "This bot is created by " + cherry2003.Mention + " and inspirted by Discord/Billy :stuck_out_tongue:");
+                await e.Channel.SendMessage(""
+                + "Bot info under maintenance...");
             }
 
             if (e.Message.Text == Prefix + "anastasia aye")
@@ -46,13 +46,9 @@ namespace Anastasia_II
                     + "**`~anastasia info`** = Displays Bot Info\n"
                     + "**`~anastasia aye`** = Say hello to Anastasia!\n"
                     + "**`~anastasia cherry`** = Short message on Cherry... Random!"
-                    + "**`~anastasia banana`** = Can you hold your breath through this whole passage?");
-            }
-            
-            if (e.Message.Text == Prefix + "ping")
-            {
-                await e.Channel.SendMessage(""
-                    + "Pong!")''
+                    + "**`~anastasia banana`** = Can you hold your breath through this whole passage?"
+                    + "**`~anastasia ping`** = Pong!
+                    + "**`~anastasia time`** = Shows the time for Anastasia! Its GMT+8...");
             }
             
             if (e.Message.Text == Prefix + "anastasia banana")
