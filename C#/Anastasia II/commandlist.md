@@ -9,6 +9,7 @@ Command | Description | Usage
 `~anastasia banana` | Try to hold your breath through the whole thing... | |
 `~anastasia info` | Gets bot info message | |
 `~ping` | Pong! | |
+`~anastasia time` | See the time for Anastasia! Aka, GMT+8 | |
 
 If you have any suggestions or need help with the commands, feel free to submit it to [here](https://github.com/MrBilly/Tr1pw1re-Bots/issues).
 
