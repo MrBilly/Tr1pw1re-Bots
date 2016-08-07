@@ -47,7 +47,7 @@ namespace Anastasia_II
                     + "**`~anastasia aye`** = Say hello to Anastasia!\n"
                     + "**`~anastasia cherry`** = Short message on Cherry... Random!"
                     + "**`~anastasia banana`** = Can you hold your breath through this whole passage?"
-                    + "**`~anastasia ping`** = Pong!
+                    + "**`~ping`** = Pong!
                     + "**`~anastasia time`** = Shows the time for Anastasia! Its GMT+8...");
             }
             
