@@ -26,13 +26,6 @@ namespace Anastasia_II
                     + "I'm a little hungry.");
             }
 
-            if (e.Message.Text == Prefix + "anastasia info")
-            {
-                var cherry2003 = e.Server.FindUsers("cherry2003").FirstOrDefault();
-                await e.Channel.SendMessage(""
-                + "Bot info under maintenance...");
-            }
-
             if (e.Message.Text == Prefix + "anastasia aye")
             {
                 var bot = e.Server.FindUsers("Anastasia II").FirstOrDefault();
@@ -43,12 +36,12 @@ namespace Anastasia_II
             {
                 await e.Channel.SendMessage(""
                     + "**`~anastasia`** = Displays this list\n"
-                    + "**`~anastasia info`** = Displays Bot Info\n"
+                    + "**`~anastasia botinfo`** = Displays Bot Info\n"
                     + "**`~anastasia aye`** = Say hello to Anastasia!\n"
                     + "**`~anastasia cherry`** = Short message on Cherry... Random!"
                     + "**`~anastasia banana`** = Can you hold your breath through this whole passage?"
-                    + "**`~ping`** = Pong!
-                    + "**`~anastasia time`** = Shows the time for Anastasia! Its GMT+8...");
+                    + "**`~anastasia time`** = Shows the time for Anastasia! Its GMT+8..."
+                    + "**`~ping`** = Pong!);
             }
             
             if (e.Message.Text == Prefix + "anastasia banana")
