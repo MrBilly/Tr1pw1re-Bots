@@ -159,8 +159,8 @@ namespace Tr1pw1re
         {
             if (e.Message.Text == "!tables")
             {
-                await e.Channel.SendMessage("Table(s) flipped: " + tablesFlipped);
-                await e.Channel.SendMessage("Table(s) unflipped: " + tablesUnFlipped);
+                await e.Channel.SendMessage("Table(s) flipped: **" + tablesFlipped + "**");
+                await e.Channel.SendMessage("Table(s) unflipped: **" + tablesUnFlipped + "**");
             }
 
             if (e.Message.Text.Contains("(╯°□°）╯︵ ┻━┻"))
