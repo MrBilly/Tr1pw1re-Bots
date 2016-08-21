@@ -1,6 +1,7 @@
 ﻿using Discord.Commands;
 using Discord.Modules;
 using System.Linq;
+using Tr1pw1re;
 
 namespace Tr1pw1re.Modules.Tr1pw1re
 {
@@ -65,9 +66,9 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                     {
                         var nsfw = e.Server.FindChannels("nsfw").FirstOrDefault();
                         await e.Channel.SendMessage(""
-                            + "```Discord General Rules```\n"
-                            + "• Do not use custom names, use your in-game name instead/n"
-                            + "• Post NSFW contents in #nsfw\n" 
+                            +"```Discord General Rules```\n"
+                            + "• Do not use custom names, use your in-game name instead\n"
+                            + "• Post NSFW contents in " + nsfw.Mention + "\n"
                             + "• Do not threaten others\n"
                             + "• Please don't advertise minecraft servers, and anything else unrelated in general\n"
                             + "• Racism is not allowed and any extreme religious talks are prohibited; dull talks of those sorts are allowed as long as you are aware of the rules\n"
@@ -91,15 +92,14 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                             + "**List of staff on Discord:**\n"
                             + "\n```xl\n"
                             + "• MrBilly - Global Admin\n"
-                            + "• Kspyro9988877 - Gobal Admin\n"
-                            + "• Cherry2003 - Gobal Admin\n"
+                            + "• kspyro9988877 - Global Admin\n"
+                            + "• cherry2003 - Global Admin\n"
                             + "• QuanTBacon - Senior Server Manager\n"
-                            + "• Joynilanjan2014 - Junior Server Manager\n"
+                            + "• joynilanjan2014 - Junior Server Manager\n"
                             + "• Helga - Junior Server Manager\n"
                             + "• JellyTipGamer - Anime Channel-Mod\n"
                             + "• MVGlad - LoL Channel-Mod\n"
-                            + "• DexTMK - NSFW Channel-Mod\n"
-                            + "```");
+                            + "• DexTMK - NSFW Channel-Mod```");
                     });
 
                 cgb.CreateCommand(Prefix + "github")
