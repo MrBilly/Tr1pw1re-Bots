@@ -88,18 +88,18 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                     .Do(async e =>
                     {
                         await e.Channel.SendMessage(""
-                            + "List of staff on Discord:\n"
+                            + "**List of staff on Discord:**\n"
                             + "\n```xl\n"
-                            + "• MrBilly - Developer\n"
-                            + "• kspyro998877 - Developer\n"
-                            + "• cherry2003 - Developer\n"
+                            + "• MrBilly - Global Admin\n"
+                            + "• Kspyro9988877 - Gobal Admin\n"
+                            + "• Cherry2003 - Gobal Admin\n"
                             + "• QuanTBacon - Senior Server Manager\n"
-                            + "• joynilanjan2014 - Junior Server Manager\n"
-                            + "• Helga - Anime Moderator\n"
-                            + "• CheeseChris - LoL Moderator\n"
-                            + "• CaptainCarrot - NSFW Moderator\n"
-                            + "• DexTMK - NSFW Moderator\n"
-                            + "• LeeCareGene - Bot Developer```");
+                            + "• Joynilanjan2014 - Junior Server Manager\n"
+                            + "• Helga - Junior Server Manager\n"
+                            + "• JellyTipGamer - Anime Channel-Mod\n"
+                            + "• MVGlad - LoL Channel-Mod\n"
+                            + "• DexTMK - NSFW Channel-Mod\n"
+                            + "```");
                     });
 
                 cgb.CreateCommand(Prefix + "github")
