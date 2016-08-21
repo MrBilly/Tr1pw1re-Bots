@@ -28,6 +28,9 @@ namespace Tr1pw1re
 
         private static List<Channel> OwnerPrivateChannels { get; set; }
 
+        public static int tablesFlipped = 0;
+        public static int tablesUnFlipped = 0;
+
         private static void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;
@@ -106,6 +109,8 @@ namespace Tr1pw1re
             //install modules
             modules.Add(new Tr1pw1reModule(), "Tr1pw1re", ModuleFilter.None);
 
+            Client.MessageReceived += Client_MessageReceived;
+
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("[INFO] Registered modules.");
             Console.ResetColor();
@@ -131,9 +136,9 @@ namespace Tr1pw1re
 
                 await Task.Delay(90000).ConfigureAwait(false);
 
-                Console.WriteLine("-----------------");
+                //Console.WriteLine("-----------------");
                 //Console.WriteLine(await NadekoStats.Instance.GetStats().ConfigureAwait(false));
-                Console.WriteLine("-----------------");
+                //Console.WriteLine("-----------------");
 
                 Client.ClientAPI.SendingRequest += (s, e) =>
                 {
@@ -148,6 +153,29 @@ namespace Tr1pw1re
             });
             Console.WriteLine("Exiting...");
             Console.ReadKey();
+        }
+
+        private static async void Client_MessageReceived(object sender, MessageEventArgs e)
+        {
+            if (e.Message.Text == "!tables")
+            {
+                await e.Channel.SendMessage("Table(s) flipped: " + tablesFlipped);
+                await e.Channel.SendMessage("Table(s) unflipped: " + tablesUnFlipped);
+            }
+
+            if (e.Message.Text.Contains("(╯°□°）╯︵ ┻━┻"))
+            {
+                tablesFlipped++;
+
+                //await e.Channel.SendMessage("Seems like " + tablesFlipped + " table(s) have been flipped");
+            }
+
+            if (e.Message.Text.Contains("┬─┬﻿ ノ( ゜-゜ノ)"))
+            {
+                tablesUnFlipped++;
+
+                //await e.Channel.SendMessage("Seems like " + tablesUnFlipped + " table(s) have been unflipped");
+            }
         }
     }
 }
