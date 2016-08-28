@@ -97,9 +97,9 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                             + "• QuanTBacon - Senior Server Manager\n"
                             + "• joynilanjan2014 - Junior Server Manager\n"
                             + "• Helga - Junior Server Manager\n"
+                            + "• LeeCareGene - Junior Server Manager\n"
                             + "• JellyTipGamer - Anime Channel-Mod\n"
-                            + "• MVGlad - LoL Channel-Mod\n"
-                            + "• DexTMK - NSFW Channel-Mod```");
+                            + "• MVGlad - LoL Channel-Mod```");
                     });
 
                 cgb.CreateCommand(Prefix + "github")
