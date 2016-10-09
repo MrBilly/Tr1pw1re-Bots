@@ -89,14 +89,13 @@ namespace Tr1pw1re.Modules.Tr1pw1re
                     .Do(async e =>
                     {
                         await e.Channel.SendMessage(""
-                            + "**List of staff on Discord:**\n"
+                            + "**Staff on Discord:**\n"
                             + "\n```xl\n"
                             + "• MrBilly - Global Admin\n"
                             + "• kspyro9988877 - Global Admin\n"
                             + "• cherry2003 - Global Admin\n"
                             + "• QuanTBacon - Senior Server Manager\n"
-                            + "• joynilanjan2014 - Server Manager\n"
-                            + "• Helga - Junior Server Manager\n"
+                            + "• Helga - Server Manager\n"
                             + "• LeeCareGene - Junior Server Manager\n"
                             + "• JellyTipGamer - Anime Channel-Mod\n"
                             + "• MVGlad - LoL Channel-Mod```");
