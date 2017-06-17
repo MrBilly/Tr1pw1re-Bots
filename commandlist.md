@@ -9,8 +9,8 @@ Commands | Description | Usage
 `.h` | Sends user a message about bot usage or when a bot command is inserted aftewards describes the use of the command | `-h .mute` = Explains what `.mute` does |
 `.modules` | Displays a list of available modules/features | |
 `.trans` | Translates a language into another language | `.trans en>chinese Hello` = Translates chosen language of word 'hello' into second chosen language |
-`@Kanna` | Talks with Kanna! | `@Tr1pw1re hello there!` = Tr1pw1re receives this message and likely reply you with a good message.
-`.rimg` | Searches an image related to your given keyword | `.rimg nyan cat` = Searches 'Nyan cat' online and gives you an image it found.
+`@Kanna` | Talks with Kanna! | `@Kanna hello there!` = Kanna replies to your message.
+`.rimg` | Searches an image related to your given keyword | `.rimg nyan cat` = Searches 'Nyan cat' online and gives you an image it finds first.
 `.cmds` | Displays all the commands under specified module | `.cmds Music` = Displays commands for music module |
 
 
@@ -19,19 +19,15 @@ Commands | Description | Usage
 
 Commands |  Description |  Usage
 -----------------------|---------------|------
-`-commands music` | Bot sends you a list of commands for Music module in the channel. | |
-`!m cleanup` | Cleans up the music bot <b>(Staff Only)</b> | |
-`!m gl` | Gives link to the song currently playing | |
-`!m lq` | Lists all music in queue of the bot | |
-`!m max` | Maximizes volume for music bot | |
-`!m vol` | Changes volume for music bot to be played in | `!m vol 50` = plays half the volume of song |
-`!m n` | Skips/goes to next music in queue | |
-`!m nowplaying` | Tells you the name of the music now playing | |
-`!m p` | Pauses music from music bot | |
-`!m q` | Queues music | `!m q brofist song` = Searches 'brofist song' on youtube and queues the music from there |
-`!m shuffle` | Shuffles music in queue | |
-`!m soundcloudqueue` | Queues music from soundcloudqueue, works the same way as `!m q` | `!m soundcloudqueue nugget biscuit` = Goes on soundcloudqueue and searches 'nugget biscuit' |
-`!m s` | Stops all music | |
+`.cmds Music` | Bot sends you a list of commands for Music module in the channel similar to this one | |
+`.stop` | Clear and stops all music | |
+`.lq` | Lists all music in queue of the bot | |
+`.vol` | Changes volume of music | `.vol 50` = plays 50% of original volume |
+`.n` | Skips/goes to next music in queue | |
+`.np` | Tells you the name of the music now playing | |
+`.p` | Pauses music from music bot | |
+`.q` | Queues music | `!m q brofist song` = searches 'brofist song' on youtube and queues the music from there |
+`.srm` | Removes a song from the queue list based on numbered order | `.srm 5` = removes song 5 from queue |
 
 
 # NSFW Commands
