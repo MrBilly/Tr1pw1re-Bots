@@ -1,5 +1,5 @@
 Here are a list of commands you can use on our Realms of Eon Discord community.
-`**To be Fixed.**`
+**`To be Fixed.`**
 
 # General Commands
 ### These are general commands that could be useful and don't fall into a big category of commands we have.
