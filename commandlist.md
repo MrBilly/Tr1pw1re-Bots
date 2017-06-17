@@ -15,7 +15,7 @@ Commands | Description | Usage
 
 
 # Music Commands
-### These commands helps you queue music, change the volume, gives you links to the music, etc. Although these commands are the main ones you will be using.
+### These commands helps you queue music, change the volume, change music, etc. Although these commands are the main ones you will be using.
 
 Commands |  Description |  Usage
 ---------|--------------|------
@@ -36,7 +36,7 @@ Commands |  Description |  Usage
 Commands | Description | Usage
 ---------------|-------------|--------
 `.cmds nsfw` | Displays full list of nsfw commands | |
-`.autohentai` | Posts hentai images every specified amount of seconds (min. 20s) | `.autohentai 20 bdsm|gay` = posts hentai of bdsm and/or gay tags every 20 seconds |
+`.autohentai` | Posts hentai images every specified amount of seconds (min. 20s) | `.autohentai 20 bdsm` = posts hentai with bdsm tags every 20 seconds (ask bot regarding double tags) |
 `.hentai` | Posts hentai(danbooru and gelbooru) images in channel | |
 `.boobs` | Posts boob images in channel | |
 `.butts` | Posts butt images in channel | |
@@ -47,7 +47,7 @@ Commands | Description | Usage
 
 
 # Entertainment Commands
-### These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
+### These commands are useful for entertainments and interactions with other members of the discord community. Please avoid spamming them in chats.
 
 Commands | Description | Usage
 --------------|------------|----------
@@ -59,27 +59,20 @@ Commands | Description | Usage
 
 
 # Administration Commands (Staff Only)
-### These commands helps staff easily moderate or administrate the server. Do not abuse your power.
+### These commands helps staff easily moderate or administrate the server. Do not abuse your power. Note: when banning/kicking try using manual actions due to audit logs.
 
 Commands |  Description |  Usage
 ---------------------|--------------|--------
-`-commands administration` | Displays all the administration commands in the channel | |
-`.softban` | Soft bans people | `.softban @Bob Spamming in chat` = Bans and then unbans Bob from the server and allows bot to send a message to Bob of the reason "spamming in chat" |
-`.ban` | Bans people | `.ban @Bob Advertising servers in public chat` = Bans Bob indefinitedly with a reason |
-`.slowmode` | When enabled, everyone will only be able to send 1 message/5 seconds | |
-`.announce` | Announces through bot <b>(Bot Owner Only)</b> | `.announce Bot restarting in 10 minutes` = Announces 'bot restarting in 10 minutes' in channels |
-`!cooldown` | Mutes mentioned user, making them unable to speak | `!cooldown @Bob` = Mutes Bob so that he cannot speak anywhere |
-`!uncooldown` | Unmutes mentioned user if they are part of the Muted group, allowing them to talk again | `!uncooldown @Bob` = Unmutes Bob |
-`.kick` | Kicks mentioned user from server | `.kick @bob Show mature behavior` = Kicks Bob and sends 'show mature behavior' to him via DM |
-`.prune` | Removes messages (This is difficult to explain, please ask Senior Staffs for tutorial) | `.prune 3` = Removes your `.prune` message and 3 messages before it |
-`.inrole` | Shows users inside certain roles | `.inrole Server Manager` = Displays lists of members within the role 'Server Manager' |
-`;afw` | Adds filter word to filter list | `;afw shit` = Adds the word 'shit' to the filter list |
-`;rfw` | Unfilters word from filter list | `;rfw shit` = Removes 'shit' from filter list |
-`;lfw` | Lists filter list | |
-`;cfw 1` | Enable filter for specific channel | |
-`;cfw 0` | Disable filter for specific channel | |
-`;sfw 1` | Enable filter for whole server | |
-`;sfw 0` | Disable filter for whole server | |
-`.cr` | Creates role with a given name | `.cr Mateys` = Creates a role called 'Mateys' |
-`.sr` | Sets a role with given user | `.sr @Bob Mateys` = Gives Bob the role 'Mateys' |
-`.rr` | Removes role from a given user | `.rr @Bob Mateys` = Removes role 'Mateys' from Bob |
+`.cmds Administration` | Displays all the administration commands in the channel | |
+`.softban` | Soft bans user specified | `.softban @Bob Spamming in chat` = Bans and then unbans Bob and his IP from the server and allows bot to send a message to Bob of the reason "spamming in chat" |
+`.ban` | Bans user specified from server with reason | `.ban @Bob Advertising` = Bans Bob indefinitely and sends reason to him via DM |
+`.kick` | Kicks user specified from server with reason | `.kick @bob Show mature behavior` = Kicks Bob and sends reason to him via DM |
+`.slowmode` | When enabled, messages will be sent as 1 message/5 seconds | |
+`.announce` | Announces through bot <b>(Bot Owner Only)</b> | `.announce Bot restarting in 10 minutes` = Announces given message in all channels |
+`.mute` | Mutes user specified | `.mute @Bob` = Mutes Bob in text and voice |
+`.unmute` | Unmutes user specified if they are already muted | `.unmute @Bob` = Unmutes Bob in text and voice |
+`.prune` | Removes messages (This is difficult to explain, please ask other staffs or admins for tutorial) | `.prune 3` = Removes your command and 3 messages before you |
+`.inrole` | Displays users with certain roles | `.inrole Global Moderator` = Displays members under Global Moderator role |
+`.cr` | Creates role with name specified | `.cr Mateys` = Creates role 'Mateys' |
+`.sr` | Sets role to user specified | `.sr @Bob Mateys` = Gives Bob the role 'Mateys' |
+`.rr` | Removes role from user specified | `.rr @Bob Mateys` = Removes role 'Mateys' from Bob |
