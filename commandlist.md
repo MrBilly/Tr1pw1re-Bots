@@ -18,8 +18,8 @@ Commands | Description | Usage
 ### These commands helps you queue music, change the volume, gives you links to the music, etc. Although these commands are the main ones you will be using.
 
 Commands |  Description |  Usage
------------------------|---------------|------
-`.cmds Music` | Bot sends you a list of commands for Music module in the channel similar to this one | |
+---------|--------------|------
+`.cmds Music` | Displays full list of music commands | |
 `.stop` | Clear and stops all music | |
 `.lq` | Lists all music in queue of the bot | |
 `.vol` | Changes volume of music | `.vol 50` = plays 50% of original volume |
@@ -31,33 +31,31 @@ Commands |  Description |  Usage
 
 
 # NSFW Commands
-### These commands are only allowed in the NSFW channel.
+### These commands are only allowed in the #nsfw channel.
 
 Commands | Description | Usage
 ---------------|-------------|--------
-`-commands nsfw` | Displays full list of nsfw commands | |
-`~hentai` | Bot searches hentai images online and posts in channel | |
-`~boobs` | Bot searches boob images online and posts in channel | |
-`~butts` | Bot searches butt images online and posts in channel | |
-`~danbooru` | Bot searches danbooru images online and posts in channel | |
-`~rule34` | Bot searches rule34 images and posts in channel | |
-`~gelbooru` | Bot searches gelbooru images and posts in channel | |
-`~cp` | You never know... | |
-`~e621` | Bot searches e621 images and posts in channel | |
-`@LewdBot ehentai` | Searches For Hentai on E-Hentai | `@LewdBot ehentai hatsune miku` 
-`@LewdBot exhentai search` | Searches For Hentai on ExHentai | `@LewdBot exhentai search hatsune miku`
-`@LewdBot exhentai info` | Searches For Hentai on ExHentai | `@LewdBot exhentai info 896497/0cccbb3ae2/`
+`.cmds nsfw` | Displays full list of nsfw commands | |
+`.autohentai` | Posts hentai images every specified amount of seconds (min. 20s) | `.autohentai 20 bdsm|gay` = posts hentai of bdsm and/or gay tags every 20 seconds |
+`.hentai` | Posts hentai(danbooru and gelbooru) images in channel | |
+`.boobs` | Posts boob images in channel | |
+`.butts` | Posts butt images in channel | |
+`.danbooru` | Posts danbooru images in channel | |
+`.gelbooru` | Posts gelbooru images in channel | |
+`.rule34` | Posts rule34 images in channel | |
+`.e621` | Posts e621 images in channel | |
+
 
 # Entertainment Commands
 ### These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
 
 Commands | Description | Usage
 --------------|------------|----------
-`-commands games` | Displays full list of game commands | |
-`>8ball` | Asks 8ball a yes/no question | `>8ball Should I sleep now?` = 8ball replies you a yes/no answer to the question 'should I sleep now?'
-`>choose` | Randomly selects a option from the list of options given | `>choose Sleep;Eat;Game` = Bot selects one of the 3 options available and replies back to you
-`>plant` | Plants a flower in the channel! | |
-`>pick` | Picks a flower that is planted in the channel! | |
+`.cmds Games` | Displays full list of game commands | |
+`.8ball` | Asks 8ball a yes/no question | `.8ball Should I sleep now?` = receives yes/no answer to 'Should I sleep now?' |
+`.choose` | Randomly selects a choice from options given | `>choose Sleep;Eat;Game` = Bot selects one of the 3 choices available and replies back to you
+`.plant` | Plants a maple leaf in the channel | |
+`.pick` | Picks a maple leaf that was planted | |
 
 
 # Administration Commands (Staff Only)
