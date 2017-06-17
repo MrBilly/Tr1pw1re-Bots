@@ -37,7 +37,7 @@ Commands | Description | Usage
 ---------------|-------------|--------
 `.cmds nsfw` | Displays full list of nsfw commands | |
 `.autohentai` | Posts hentai images every specified amount of seconds (min. 20s) | `.autohentai 20 bdsm` = posts hentai with bdsm tags every 20 seconds (ask bot regarding double tags) |
-`.hentai` | Posts hentai(danbooru and gelbooru) images in channel | |
+`.hentai` | Posts hentai(danbooru and gelbooru) images in channel | `.hentai` = normal hentai `.hentai gay` = posts hentai with gay tags |
 `.boobs` | Posts boob images in channel | |
 `.butts` | Posts butt images in channel | |
 `.danbooru` | Posts danbooru images in channel | |
@@ -53,7 +53,7 @@ Commands | Description | Usage
 --------------|------------|----------
 `.cmds Games` | Displays full list of game commands | |
 `.8ball` | Asks 8ball a yes/no question | `.8ball Should I sleep now?` = receives yes/no answer to 'Should I sleep now?' |
-`.choose` | Randomly selects a choice from options given | `>choose Sleep;Eat;Game` = Bot selects one of the 3 choices available and replies back to you
+`.choose` | Randomly selects a choice from options given | `.choose Sleep;Eat;Game` = Bot selects one of the 3 choices available and replies back to you
 `.plant` | Plants a maple leaf in the channel | |
 `.pick` | Picks a maple leaf that was planted | |
 
