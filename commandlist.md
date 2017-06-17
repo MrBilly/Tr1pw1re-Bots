@@ -1,21 +1,20 @@
-Here are a list of commands you can use on Tr1pw1re Discord.
+Here are a list of commands you can use on our Realms of Eon Discord community.
+`**To be Fixed.**`
 
-#General Commands
-###These are general commands that could be useful and don't fall into a big category of commands we have.
+# General Commands
+### These are general commands that could be useful and don't fall into a big category of commands we have.
 
 Commands | Description | Usage
--------------|----------------|--------
-`-h` | Describes the use of a command | `-h .softban` = Explains what `.softban` does |
-`-modules` | Displays a list of available nadeko modules | |
-`~trans` | Translates a language into another language | `~trans en>chinese Hello` = Translates the english word 'hello' into chinese, giving you '你好' |
-`@Tr1pw1re` | Talks with Tr1pw1re bot | `@Tr1pw1re hello there!` = Tr1pw1re receives this message and likely reply you with a good message.
-`~ir` | Searches an image related to your given keyword | `~ir nyan cat` = Searches 'Nyan cat' online and gives you an image it found.
-`!staff` | Lists Tr1pw1re Discord staff | |
-`!announcements` | Shows recently updated announcements from the last added ones | |
-`!colors` or `!colours` | Shows colors available for your name | |
+---------|-------------|--------
+`.h` | Sends user a message about bot usage or when a bot command is inserted aftewards describes the use of the command | `-h .mute` = Explains what `.mute` does |
+`.modules` | Displays a list of available modules/features | |
+`.trans` | Translates a language into another language | `.trans en>chinese Hello` = Translates chosen language of word 'hello' into second chosen language |
+`@Kanna` | Talks with Kanna! | `@Tr1pw1re hello there!` = Tr1pw1re receives this message and likely reply you with a good message.
+`.rimg` | Searches an image related to your given keyword | `.rimg nyan cat` = Searches 'Nyan cat' online and gives you an image it found.
+`.cmds` | Displays all the commands under specified module | `.cmds Music` = Displays commands for music module |
 
 
-#Music Commands
+# Music Commands
 ### These commands helps you queue music, change the volume, gives you links to the music, etc. Although these commands are the main ones you will be using.
 
 Commands |  Description |  Usage
@@ -35,8 +34,8 @@ Commands |  Description |  Usage
 `!m s` | Stops all music | |
 
 
-#NSFW Commands
-###These commands are only allowed in the NSFW channel.
+# NSFW Commands
+### These commands are only allowed in the NSFW channel.
 
 Commands | Description | Usage
 ---------------|-------------|--------
@@ -53,8 +52,8 @@ Commands | Description | Usage
 `@LewdBot exhentai search` | Searches For Hentai on ExHentai | `@LewdBot exhentai search hatsune miku`
 `@LewdBot exhentai info` | Searches For Hentai on ExHentai | `@LewdBot exhentai info 896497/0cccbb3ae2/`
 
-#Entertainment Commands
-###These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
+# Entertainment Commands
+### These commands are useful for entertainments and interactions with other members of the discord community. Please do not spam those in chats.
 
 Commands | Description | Usage
 --------------|------------|----------
@@ -65,8 +64,8 @@ Commands | Description | Usage
 `>pick` | Picks a flower that is planted in the channel! | |
 
 
-#Administration Commands (Staff Only)
-###These commands helps staff easily moderate or administrate the server. Do not abuse your power.
+# Administration Commands (Staff Only)
+### These commands helps staff easily moderate or administrate the server. Do not abuse your power.
 
 Commands |  Description |  Usage
 ---------------------|--------------|--------
