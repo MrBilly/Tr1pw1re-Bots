@@ -26,7 +26,7 @@ Commands |  Description |  Usage
 `.n` | Skips/goes to next music in queue | |
 `.np` | Tells you the name of the music now playing | |
 `.p` | Pauses music from music bot | |
-`.q` | Queues music | `!m q brofist song` = searches 'brofist song' on youtube and queues the music from there |
+`.q` | Queues music | `.q brofist song` = searches 'brofist song' on youtube and queues the music from there |
 `.srm` | Removes a song from the queue list based on numbered order | `.srm 5` = removes song 5 from queue |
 
 
