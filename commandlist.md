@@ -1,4 +1,4 @@
-Here are a list of commands you can use on our Realms of Eon Discord community.\n
+Here are a list of commands you can use on our Realms of Eon Discord community.
 `**To be Fixed.**`
 
 # General Commands
