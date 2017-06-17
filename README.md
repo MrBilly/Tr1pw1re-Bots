@@ -1,9 +1,9 @@
-# Tr1pw1re Bots
+# Realms of Eon Bots
 
 Make a suggestion for commands or anything!
 
-## [Click here to make a suggestion] (https://github.com/MrBilly/Tr1pw1re-Bot/issues)
-## [Click here to view essential bot commands] (https://github.com/MrBilly/Tr1pw1re-Bots/blob/master/commandlist.md)
+## [Click here to make a suggestion](https://github.com/MrBilly/Tr1pw1re-Bot/issues)
+## [Click here to view essential bot commands](https://github.com/MrBilly/Tr1pw1re-Bots/blob/master/commandlist.md)
 
 ## How to make a suggestion
 • Click on the link above
