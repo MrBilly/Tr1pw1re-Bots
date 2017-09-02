@@ -10,7 +10,7 @@ Make a suggestion for commands or anything!
 
 • Click on "New Issue"
 
-![img](https://www.dropbox.com/s/6fwtxw80ec7u23e/scrnshot-1.png?dl=1)
+![img](http://i.imgur.com/319TghO.png)
 
 • Fill in the form for your suggestion
 ![img](https://www.dropbox.com/s/521zf8crkqcssxg/scrnshot-2.png?dl=1)
