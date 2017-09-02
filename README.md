@@ -13,8 +13,8 @@ Make a suggestion for commands or anything!
 ![img](http://i.imgur.com/319TghO.png)
 
 • Fill in the form for your suggestion
-![img](https://www.dropbox.com/s/521zf8crkqcssxg/scrnshot-2.png?dl=1)
+![img](http://i.imgur.com/tG24xxy.png)
 
 • Submit your issue
 
-![img](https://www.dropbox.com/s/h3vupw161sje6jr/scrnshot-3.png?dl=1)
+![img](http://i.imgur.com/RPj5owJ.png)
