@@ -4,4 +4,4 @@
 Discord.Net and it's dependencies 
 
 # Credit
-This bot uses some source code from [NadekoBot] (https://github.com/Kwoth/NadekoBot) made by [Kwoth] (https://github.com/Kwoth)
+This bot uses some source code from [NadekoBot](https://github.com/Kwoth/NadekoBot) made by [Kwoth](https://github.com/Kwoth)
