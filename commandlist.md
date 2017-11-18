@@ -9,9 +9,10 @@ Commands | Description | Usage
 `.h` | Sends user a message about bot usage or when a bot command is inserted aftewards describes the use of the command | `-h .mute` = Explains what `.mute` does |
 `.modules` | Displays a list of available modules/features | |
 `.trans` | Translates a language into another language | `.trans en>chinese Hello` = Translates chosen language of word 'hello' into second chosen language |
-`@Kanna` | Talks with Kanna! | `@Kanna hello there!` = Kanna replies to your message.
+`@Lala` | Talks with Lala! | `@Lala hello there!` = Lala replies to your message.
 `.rimg` | Searches an image related to your given keyword | `.rimg nyan cat` = Searches 'Nyan cat' online and gives you an image it finds first.
 `.cmds` | Displays all the commands under specified module | `.cmds Music` = Displays commands for music module |
+`.timely` | Receives your daily kanna leaves with a cooldown of 24 hours | |
 
 
 # Music Commands
