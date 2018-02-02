@@ -9,7 +9,7 @@ Commands | Description | Usage
 `.h` | Sends user a message about bot usage or when a bot command is inserted aftewards describes the use of the command | `-h .mute` = Explains what `.mute` does |
 `.modules` | Displays a list of available modules/features | |
 `.trans` | Translates a language into another language | `.trans en>chinese Hello` = Translates chosen language of word 'hello' into second chosen language |
-`@Lala` | Talks with Lala! | `@Lala hello there!` = Lala replies to your message.
+`@Uganda Knuckles` | Talks with Uganda! | `@Uganda Knuckles hello there!` = Uganda replies to your message.
 `.rimg` | Searches an image related to your given keyword | `.rimg nyan cat` = Searches 'Nyan cat' online and gives you an image it finds first.
 `.cmds` | Displays all the commands under specified module | `.cmds Music` = Displays commands for music module |
 `.timely` | Receives your daily kanna leaves with a cooldown of 24 hours | |
@@ -55,8 +55,8 @@ Commands | Description | Usage
 `.cmds Games` | Displays full list of game commands | |
 `.8ball` | Asks 8ball a yes/no question | `.8ball Should I sleep now?` = receives yes/no answer to 'Should I sleep now?' |
 `.choose` | Randomly selects a choice from options given | `.choose Sleep;Eat;Game` = Bot selects one of the 3 choices available and replies back to you
-`.plant` | Plants a maple leaf in the channel | |
-`.pick` | Picks a maple leaf that was planted | |
+`.plant` | Drops a bottle of hotsos in the channel | |
+`.pick` | Picks a bottle of hotsos that was dropped | |
 
 
 # Administration Commands (Staff Only)
